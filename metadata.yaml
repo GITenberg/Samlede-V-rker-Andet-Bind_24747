@@ -19,6 +19,8 @@ creator:
     - http://da.wikipedia.org/wiki/Jeppe_Aakj%C3%A6r
     - http://en.wikipedia.org/wiki/Jeppe_Aakj%C3%A6r
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24747#Samlede-V-rker-Andet-Bind
 gutenberg_issued: '2008-03-03'
 gutenberg_type: Text
 identifiers:
